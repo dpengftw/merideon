@@ -26,7 +26,7 @@ body {
 <body>
 <table border="0" cellpadding="0" cellspacing="0" align="center" valign="top">
       <tr>
-        <td align="center" colspan="3" valign="top"><div style="border-radius: 10px; width: 770px; overflow: hidden;"><iframe src="http://clips.animatron.com/88639f7d44ab1e1bba244595f08cf7f4?w=770&h=222&autoPlay=1" width="770" height="222" frameborder="0"></iframe></div></td>
+        <td align="center" colspan="3" valign="top"><div style="border-radius: 10px; width: 770px; overflow: hidden;"><iframe src="https://clips.animatron.com/88639f7d44ab1e1bba244595f08cf7f4?w=770&h=222&autoPlay=1" width="770" height="222" frameborder="0"></iframe></div></td>
       </tr>
 	  <tr>
 		<td width="5%"><img src="images/spacer.gif" /></td>
