@@ -1,0 +1,104 @@
+.body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #333333;
+	line-height: 21px;
+}
+.hometitle {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 36px;
+	color: #336600;
+	font-style: normal;
+}
+.bodysubtitle {
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+	font-size: 16px;
+	color: #666600;
+	font-weight: bold;
+	font-style: normal;
+}
+.sidebar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFFFFF;
+}
+.sidebar_1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #666600;
+}
+.productbody {
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+	font-size: 12px;
+	color: #333333;
+}
+.patent {
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+	font-size: 12px;
+	font-style: italic;
+	color: #000000;
+}
+.titlecorners {
+	width:770px;
+	height:220px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	background-color:#336600;
+	-webkit-box-shadow: #545454 10px 10px 10px;
+	-moz-box-shadow: #545454 10px 10px 10px; 
+	box-shadow: #545454 10px 10px 10px;
+}
+.bodycorners {
+	background-color: #FFECC2;
+	width:570px;
+	padding: 20px 100px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	-webkit-box-shadow: #545454 10px 10px 10px;
+	-moz-box-shadow: #545454 10px 10px 10px;
+	box-shadow: #545454 10px 10px 10px;
+}
+#navlist
+{
+	margin-top: 4px;
+	margin-bottom: 4px;
+	padding: 0;
+	list-style-type: none;
+	text-align: center;
+}
+#navlist li {
+	display: inline;
+	list-style-type: none;
+	padding-right: 20px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+}
+#navlist li a
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+#navlist li a:hover
+{
+	color: #99FF00;
+}
+a:link {
+	color: #336600;
+}
+a:visited {
+	color: #CC9900;
+}
+a:hover {
+	color: #99FF00;
+}
+a:active {
+	color: #666666;
+}
+.style4 {
+	color: #FFFFFF;
+	font-size: xx-small;
+	display: table;
+    margin: 0 auto;
+}
