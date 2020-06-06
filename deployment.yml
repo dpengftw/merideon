@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: merideon
 spec:
-  selector: nginx-php-fpm
+  selector:
     matchLabels:
       app: nginx-php-fpm
   replicas: 1
