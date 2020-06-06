@@ -1,0 +1,19 @@
+apiVersion: apps/v1 # for versions before 1.9.0 use apps/v1beta2
+kind: Deployment
+metadata:
+  name: merideon
+spec:
+  selector: nginx-php-fpm
+    matchLabels:
+      app: nginx-php-fpm
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: nginx-php-fpm
+    spec:
+      containers:
+      - name: nginx-php-fpm
+        image: richarvey/nginx-php-fpm
+        ports:
+        - containerPort: 80
